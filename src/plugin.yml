@@ -1,0 +1,5 @@
+name: OreRegen
+version: 1.0.0
+description: Regenerates ore mined by players
+author: Chiller
+main: me.chiller.oreregen.OreRegen

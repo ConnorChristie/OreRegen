@@ -1,0 +1,11 @@
+ores:
+  iron_ore: 15
+  gold_ore: 15
+  coal_ore: 10
+  lapis_ore: 10
+  diamond_ore: 30
+  redstone_ore: 10
+  glowing_redstone_ore: 10
+  emerald_ore: 25
+  quartz_ore: 15
+  
